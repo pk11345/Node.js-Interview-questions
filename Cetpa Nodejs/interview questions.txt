@@ -1,0 +1,29 @@
+Interview Question Day1.
+Q1. What is Node.js?
+Ans.  Its is a Javascript runtime environment.
+
+Q2. What is the event loop in Node.js?
+Ans. Event Loop in Node.js help to handle the asynchronous nature of the code, example- SetTimeout and SetInterval
+
+Q3. What are the core modules in Node.js?
+Ans. Module in the Node.js contains the packages installed which we can use in our application using import or require. 
+
+Q4. What is the purpose of the require() function in Node.js?
+Ans. require() in Node.js help us to import the packages we installed in out application.
+
+Q5. What is the difference between require and import in Node.js?
+Ans. require() needs to declare with variable , example- const express = require("express).
+     Whereas,import doesn't need to declare, example- import{useState} from "react".
+
+Q6. What are callbacks in Node.js?
+Ans. Callbacks are the function which are passed as arguments of a another function.
+
+Q7. What is npm in Node.js?
+Ans. NPM (Node Package Manager) help us to install packages in our system to run in our application.
+
+Q8. What is the difference between process.nextTick(), setImmediate(), and setTimeout() in Node.js?
+
+Q9. How do you handle errors in Node.js?
+Ans. Handling of errors in Node.js is done with help of try {} and catch{}
+
+Q10. How do you handle errors in Node.js?
