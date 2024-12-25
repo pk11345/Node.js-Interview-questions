@@ -1,6 +1,6 @@
 Interview Question Day1.
 Q1. What is Node.js?
-Ans.  Its is a Javascript runtime environment.
+Ans.  It is a Javascript runtime environment.
 
 Q2. What is the event loop in Node.js?
 Ans. Event Loop in Node.js help to handle the asynchronous nature of the code, example- SetTimeout and SetInterval
